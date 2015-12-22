@@ -1,0 +1,22 @@
+Mailing Lists
+                     make@: simple. public contact.
+		                    makerspace@: simple. maker space superusers.
+				             makerspace-users@: mailman. maker space users.
+					            columbiamakerspace@: simple. former superuser list, deprecated.
+
+Hostnames
+         make.columbia.edu: CNAME to weebly site.
+	   makedb.seas.columbia.edu: user system.
+	     make$n.seas.columbia.edu: makerspace machines (includes n='')
+
+Mailing Lists
+                     make@: simple. public contact.
+		                    makerspace@: simple. maker space superusers.
+				             makerspace-users@: mailman. maker space users.
+					            columbiamakerspace@: simple. former superuser list, deprecated.
+
+Hostnames
+         make.columbia.edu: CNAME to weebly site.
+	   makedb.seas.columbia.edu: user system.
+	     make$n.seas.columbia.edu: makerspace machines (includes n='')
+	     
